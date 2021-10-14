@@ -1,5 +1,7 @@
 # SpiderIsland 25-key RGB Backlight Hot Swap Mechanical Keyboard
 
+This is a reupload of a failed pull request by user Jereksel, I did not develop this configuration.
+
 Keyboard from [SpiderIsland on AliExpress](https://a.aliexpress.com/_dVJsSpR). Seller provides [kbfirmware](https://kbfirmware.com/) JSON config that was converted to QMK.
 
 * Keyboard Maintainer: [jereksel](https://github.com/jereksel)
