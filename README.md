@@ -18,6 +18,4 @@ I don't know a great deal about QMK keyboards, their configurations, nor VIA.  H
 
 Within the `Other` folder, there is a .hex and a .json VIA config file for this keyboard (either with or without the RGB capabilities).
 
-These were provided courtesy of Mike AKA Atomic Shrimp and /u/katapiro.
-
-Useful discussion found [here](https://www.reddit.com/r/AtomicShrimp/comments/p338lc/cheap_aliexpress_macro_keyboard/) on Reddit.
+These were provided courtesy of Mike AKA Atomic Shrimp and /u/katapiro
